@@ -1,0 +1,85 @@
+/* works  */
+.left_box {
+  width: 200px;
+  padding: 40px 0 0 0;
+  position: fixed;
+  z-index: 999999;
+}
+
+.works_text_box {
+  width: 330px;
+  position: absolute;
+  top: 0px;
+  left: 190px;
+  padding: 40px 0 60px 0px;
+  line-height: 25px;
+}
+
+.works_text_box_fixed {
+  width: 330px;
+  position: fixed;
+  padding: 40px 0 60px 190px;
+  line-height: 25px;
+}
+
+.image_box {
+  width: 480px;
+  position: absolute;
+  top: 0px;
+  left: 545px;
+  padding: 40px 0 60px 0;
+}
+
+.image_box img {
+  width: 100%;
+  padding: 0 0 4px 0;
+}
+
+.text_box {
+  width: 760px;
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  padding: 40px 0 60px 0;
+  line-height: 25px;
+}
+
+p.left_box_list {
+  padding: 0 0 20px 0;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-top: 0;
+  padding-top: 0;
+  color: #000;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 12px;
+  padding: 10px 0 0 0;
+}
+
+h3 {
+  font-size: 12px;
+  padding: 10px 0 0 0;
+}
+
+h4 {
+  font-family: "NanumGothicWeb";
+  font-size: 12px;
+  font-weight: normal;
+  padding: 20px 0 0 0;
+  line-height: 18px;
+  text-align: justify;
+}
+
+.italic {
+  font-style: italic;
+}
+
+strong {
+  font-family: 'NanumGothicWebB';
+}
